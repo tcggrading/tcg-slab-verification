@@ -6,10 +6,10 @@
     "Card Number": "#20/189",
     "Grade Label": "10",
     "Grade": "-",
-    "CENTERING": NaN,
-    "SURFACE": NaN,
-    "CORNERS": NaN,
-    "EDGES": NaN,
-    "NOTES": NaN,
+    "CENTERING": null,
+    "SURFACE": null,
+    "CORNERS": null,
+    "EDGES": null,
+    "NOTES": null,
     "Image URL": "https://raw.githubusercontent.com/tcggrading/tcg-slab-verification/main/images/HoloTCGSlab-Stock.png"
 }
